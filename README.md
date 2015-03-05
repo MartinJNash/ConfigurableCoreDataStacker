@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Martin Nash, martin.j.nash@gmail.com
+Martin Nash
 
 ## License
 
