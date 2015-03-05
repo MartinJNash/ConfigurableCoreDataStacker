@@ -1,13 +1,26 @@
-
+#
+# Be sure to run `pod lib lint ConfigurableCoreDataStacks.podspec' to ensure this is a
+# valid spec and remove all comments before submitting the spec.
+#
+# Any lines starting with a # are optional, but encouraged
+#
+# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
+#
 
 Pod::Spec.new do |s|
   s.name             = "ConfigurableCoreDataStacks"
   s.version          = "0.1.0"
   s.summary          = "A short description of ConfigurableCoreDataStacks."
+  s.description      = <<-DESC
+                       An optional longer description of ConfigurableCoreDataStacks
+
+                       * Markdown format.
+                       * Don't worry about the indent, we strip it!
+                       DESC
   s.homepage         = "https://github.com/<MartinJNash>/ConfigurableCoreDataStacks"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Martin Nash" => "hidden@hidden.com" }
+  s.author           = { "Martin Nash" => "martin.j.nash@gmail.com" }
   s.source           = { :git => "https://github.com/<MartinJNash>/ConfigurableCoreDataStacks.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
