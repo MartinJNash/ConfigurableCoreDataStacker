@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ConfigurableCoreDataStacks: 781dce33c27a9cca37e518ecb520d2d77787104e
+  ConfigurableCoreDataStacks: 3eea3ca180829430956a4b8e72f229f997f13d66
 
 COCOAPODS: 0.35.0

@@ -3,6 +3,4 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'ConfigurableCoreDataStacks', :exclusive => true do
   pod "ConfigurableCoreDataStacks", :path => "../"
-
-  
 end

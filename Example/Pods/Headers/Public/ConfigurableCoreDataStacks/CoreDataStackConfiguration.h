@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/CoreDataStackConfiguration.h
