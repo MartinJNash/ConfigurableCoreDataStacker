@@ -1,6 +1,6 @@
 # ConfigurableCoreDataStacks
 
-[![CI Status](http://img.shields.io/travis/Martin Nash/ConfigurableCoreDataStacks.svg?style=flat)](https://travis-ci.org/Martin Nash/ConfigurableCoreDataStacks)
+[![CI Status](http://img.shields.io/travis/MartinJNash/ConfigurableCoreDataStacks.svg?style=flat)](https://travis-ci.org/Martin Nash/ConfigurableCoreDataStacks)
 [![Version](https://img.shields.io/cocoapods/v/ConfigurableCoreDataStacks.svg?style=flat)](http://cocoadocs.org/docsets/ConfigurableCoreDataStacks)
 [![License](https://img.shields.io/cocoapods/l/ConfigurableCoreDataStacks.svg?style=flat)](http://cocoadocs.org/docsets/ConfigurableCoreDataStacks)
 [![Platform](https://img.shields.io/cocoapods/p/ConfigurableCoreDataStacks.svg?style=flat)](http://cocoadocs.org/docsets/ConfigurableCoreDataStacks)
