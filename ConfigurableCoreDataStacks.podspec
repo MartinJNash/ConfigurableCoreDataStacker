@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ConfigurableCoreDataStacks"
-  s.version          = "0.3.0"
+  s.version          = "0.3.1"
   s.summary          = "Flexible, cusomtizable Core Data stacks."
   s.homepage         = "https://github.com/MartinJNash/ConfigurableCoreDataStacks"
   s.license          = 'MIT'
