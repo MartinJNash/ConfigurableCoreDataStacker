@@ -9,6 +9,6 @@
 // ConfigurableCoreDataStacks
 #define COCOAPODS_POD_AVAILABLE_ConfigurableCoreDataStacks
 #define COCOAPODS_VERSION_MAJOR_ConfigurableCoreDataStacks 0
-#define COCOAPODS_VERSION_MINOR_ConfigurableCoreDataStacks 1
+#define COCOAPODS_VERSION_MINOR_ConfigurableCoreDataStacks 2
 #define COCOAPODS_VERSION_PATCH_ConfigurableCoreDataStacks 0
 

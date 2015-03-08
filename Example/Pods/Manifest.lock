@@ -1,5 +1,5 @@
 PODS:
-  - ConfigurableCoreDataStacks (0.1.0)
+  - ConfigurableCoreDataStacks (0.2.0)
 
 DEPENDENCIES:
   - ConfigurableCoreDataStacks (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ConfigurableCoreDataStacks: 3eea3ca180829430956a4b8e72f229f997f13d66
+  ConfigurableCoreDataStacks: a4162eb972d168b9aaa3a5de69faf0e54cb99e15
 
 COCOAPODS: 0.35.0
